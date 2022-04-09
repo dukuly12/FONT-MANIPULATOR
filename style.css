@@ -1,0 +1,36 @@
+body{
+    background-image: url("https://wallpaperaccess.com/full/3204572.jpg");
+
+}
+
+.bottom-part{
+    position: fixed;
+    color: rgb(200, 66, 66);
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    line-height: 3;
+    text-align: center;
+}
+
+.note{
+    font-size: 20px;
+    width: 100%;
+    margin: 0px;
+    color: red;
+    box-shadow: 5px 5px 10px #473e3e;
+}
+
+.top{
+    font-size: 20px;
+}
+
+.font{
+    font-size: 30px;
+}
+
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 8px 10px #473e3e;
+}
